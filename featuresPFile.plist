@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>feature name 1</key>
+	<string>HP: 1</string>
+	<key>feature name 2</key>
+	<string>HP 2</string>
+	<key>feature name 3</key>
+	<string>HP: 3</string>
+	<key>feature name 4</key>
+	<string>HP: 4</string>
+	<key>feature name 5</key>
+	<string>HP: 5</string>
+	<key>feature name 6</key>
+	<string>HP: 6</string>
+	<key>feature name 7</key>
+	<string>HP: 7</string>
+	<key>feature name 8</key>
+	<string>HP: 8</string>
+	<key>feature name 9</key>
+	<string>HP: 9</string>
+	<key>feature name 10</key>
+	<string>HP: 10</string>
+	<key>feature name 11</key>
+	<string>HP: 11</string>
+	<key>feature name 12</key>
+	<string>HP: 12</string>
+	<key>feature name 13</key>
+	<string>HP: 13</string>
+	<key>feature name 14</key>
+	<string>HP: 14</string>
+	<key>feature name 15</key>
+	<string>HP: 15</string>
+</dict>
+</plist>
