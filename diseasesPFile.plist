@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disease 1</key>
+	<string>detail 1</string>
+	<key>disease 2</key>
+	<string>detail 2</string>
+	<key>disease 3</key>
+	<string>detail3</string>
+	<key>disease 4</key>
+	<string>detail 4</string>
+	<key>disease 5</key>
+	<string>detail 5</string>
+	<key>disease 6</key>
+	<string>detail 6</string>
+	<key>disease 7</key>
+	<string>detail 7</string>
+	<key>disease 8</key>
+	<string>detail 8</string>
+	<key>disease 9</key>
+	<string>detail 9</string>
+	<key>disease 10</key>
+	<string>detail 10</string>
+	<key>disease 11</key>
+	<string>detail 11</string>
+	<key>disease 12</key>
+	<string>detail 12</string>
+	<key>disease 13</key>
+	<string>detail 13</string>
+	<key>disease 14</key>
+	<string>detail 14</string>
+	<key>disease 15</key>
+	<string>detail 15</string>
+</dict>
+</plist>
