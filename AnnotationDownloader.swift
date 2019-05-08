@@ -2,9 +2,7 @@
 //  AnnotationDownloader.swift
 //  ThePhenomizer
 //
-//  Created by Robert Wicks on 12/2/15.
-//  Copyright © 2015 SE15 UniB. All rights reserved.
-//
+
 // Downloads features and diseases
 
 import UIKit
